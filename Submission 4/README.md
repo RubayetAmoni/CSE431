@@ -14,7 +14,7 @@ Paper presentation (anyone can view without login):
 Paper submission date (to workshop/conference): 3/1/23
 
 
-Paper submission ID: (received) from conference/workshop
+Paper submission ID: Submission 160
 
 
 Conference Name: 15th International Conference on Computer and Automation Engineering (ICCAE 2023)
