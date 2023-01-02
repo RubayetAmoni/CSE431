@@ -1,7 +1,7 @@
 Unlisted youtube video: https://www.youtube.com/watch?v=-QGAS8DTT6c&list=PLtnpYQTLCj4niOFscbk4TOWapyxaGhfBT&index=4
 
 
-Conference submitted paper / paper submission / login Link:
+Conference submitted paper / paper submission / login Link: https://easychair.org/conferences/submitted?a=30120905;submission=6340407;track=288723
 
 
 Paper title:
@@ -11,16 +11,17 @@ A research using NLP with a microscopic viewpoint to identify human activities f
 Paper presentation (anyone can view without login):
 
 
-Paper submission date (to workshop/conference):
+Paper submission date (to workshop/conference): 3/1/23
 
 
 Paper submission ID: (received) from conference/workshop
 
 
-Conference Name:
+Conference Name: 15th International Conference on Computer and Automation Engineering (ICCAE 2023)
 
 
-Conference URL:
+
+Conference URL: http://www.iccae.org/index.html
 
 
 Group Number:
